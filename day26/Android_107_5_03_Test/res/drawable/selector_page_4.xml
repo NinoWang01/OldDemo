@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/used_1" android:state_selected="false"></item>
+
+    <!-- 点击的状态 -->
+    <item android:drawable="@drawable/used_2" android:state_selected="true"></item>
+
+</selector>

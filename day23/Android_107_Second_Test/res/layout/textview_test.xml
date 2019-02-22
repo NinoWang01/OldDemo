@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <!-- 跑马灯效果 -->
+
+    <TextView
+        style="@style/me"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="张三丰是武当掌门" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ellipsize="marquee"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:scrollHorizontally="true"
+        android:singleLine="true"
+        android:textColor="@android:color/holo_orange_dark"
+        android:text="张三丰是武当掌门,他收了七个弟子，张无忌他老爹叫张翠山，他妈叫殷素素，他外公叫白眉鹰王" />
+
+</LinearLayout>

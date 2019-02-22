@@ -1,0 +1,73 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+
+    <!-- 作为播放音乐文件对应的路径的ID=et_inputpath -->
+
+    <EditText
+        android:id="@+id/et_inputpath"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10" 
+        android:text="a.mp3">
+
+        <requestFocus />
+    </EditText>
+
+    <!-- 进度条 -->
+
+    <SeekBar
+        android:id="@+id/seekBar1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/bt_play"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawableTop="@android:drawable/ic_media_play"
+            android:gravity="center"
+            android:text="播放" />
+
+        <TextView
+            android:id="@+id/bt_pause"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawableTop="@android:drawable/ic_media_pause"
+            android:gravity="center"
+            android:text="暂停" />
+
+        <TextView
+            android:id="@+id/bt_stop"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawableTop="@android:drawable/ic_media_pause"
+            android:gravity="center"
+            android:text="停止" />
+
+        <TextView
+            android:id="@+id/bt_replay"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawableTop="@android:drawable/ic_media_play"
+            android:gravity="center"
+            android:text="重新播放" />
+    </LinearLayout>
+
+</LinearLayout>

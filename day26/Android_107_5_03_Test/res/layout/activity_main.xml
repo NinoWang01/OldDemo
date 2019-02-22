@@ -1,0 +1,100 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    tools:context=".MainActivity" >
+
+    <RelativeLayout
+        android:id="@+id/relative_layout_id"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1" >
+
+        <ImageView
+            android:id="@+id/image_view_id"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:background="@drawable/selector_page" />
+
+        <TextView
+            android:id="@+id/text_view_id"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/image_view_id"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:text="首页" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/id_111"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1" >
+
+        <ImageView
+            android:id="@+id/image_view_id_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:background="@drawable/selector_page_3" />
+
+        <TextView
+            android:id="@+id/text_view_id_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/image_view_id_1"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:text="推荐" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/id_222"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1" >
+
+        <ImageView
+            android:id="@+id/image_view_id_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:background="@drawable/selector_pager_2" />
+
+        <TextView
+            android:id="@+id/text_view_id_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/image_view_id_2"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:text="手机大全" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/id_333"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1" >
+
+        <ImageView
+            android:id="@+id/image_view_id_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:background="@drawable/selector_page_4" />
+
+        <TextView
+            android:id="@+id/text_view_id_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/image_view_id_3"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:text="应用" />
+    </RelativeLayout>
+
+</LinearLayout>

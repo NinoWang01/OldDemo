@@ -1,0 +1,8 @@
+直播Bu2.0提供了两种对接方式的apk:jar+res和VenvyLiveLibrary
+Android_BU2.0_SDK.zip含有两个文件：jar+res和VenvyLiveLibiary,这个两个文件代表着两种不同的对接方式：
+
+1)jar+res方式：
+  jar+res文件夹下包含了venvy_live_1.0.jar和drawable-xhdpi文件夹，其中jar文件放入项目中的libs中，drawable-xhdpi的图片资源放入drawable-xhdpi文件夹下
+2)VenvyLiveLibrary方式：
+  该方式是作为library的形式在主项目中引入即可。
+   

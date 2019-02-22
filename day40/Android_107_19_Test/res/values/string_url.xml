@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="xmlUrl">        http://10.0.7.60:8080/NewsInfo.xml</string>
+
+</resources>

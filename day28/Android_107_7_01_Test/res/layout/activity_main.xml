@@ -1,0 +1,80 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:id="@+id/text_view_hao_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:padding="10dp"
+        android:text="请输入用户名和密码：" />
+
+    <LinearLayout
+        android:id="@+id/linear_layout_id_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/text_view_hao_id"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="30dp"
+        android:orientation="horizontal"
+        android:padding="10dp" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="用户名：" />
+
+        <EditText
+            android:id="@+id/edit_text_id"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:hint="请输入用户名" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linear_layout_id_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/linear_layout_id_1"
+        android:layout_centerHorizontal="true"
+        android:orientation="horizontal"
+        android:padding="10dp" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="密     码：" />
+
+        <EditText
+            android:id="@+id/edit_text_id_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="请输入  密码" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/button_save_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/button_save_id_1"
+        android:layout_alignBottom="@+id/button_save_id_1"
+        android:layout_alignLeft="@+id/text_view_hao_id"
+        android:layout_marginLeft="16dp"
+        android:text="保存 " />
+
+    <Button
+        android:id="@+id/button_save_id_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/linear_layout_id_2"
+        android:layout_centerInParent="true"
+        android:layout_toRightOf="@id/button_save_id"
+        android:text="查看 " />
+
+</RelativeLayout>

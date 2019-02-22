@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android_107_25_01_Test</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="rf_button1">第1个fragment的内容</string>
+    <string name="rf_button2">第2个fragment的内容</string>
+    <string name="rf_button3">第3个fragment的内容</string>
+
+</resources>

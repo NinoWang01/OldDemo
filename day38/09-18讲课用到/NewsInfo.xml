@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <news> 
+    <newsInfo>
+      <icon>http://192168.31.150:8080/img/a.jpg</icon>  
+       <title>科技温暖世界</title> 
+       <content>进入一个更有爱的世界</content>
+       <type>1</type>
+       <comment>69</comment>
+    </newsInfo> 
+     
+      <newsInfo>
+      <icon>http://192168.31.150:8080/img/b.jpg</icon>  
+       <title>《完美世界》</title> 
+       <content>完美世界是一部很好的小说</content>
+       <type>2</type>
+       <comment>35</comment>
+    </newsInfo> 
+    
+    <newsInfo>
+      <icon>http://192168.31.150:8080/img/c.jpg</icon>  
+       <title>科技温暖世界</title> 
+       <content>进入一个更有爱的世界</content>
+       <type>3</type>
+       <comment>2</comment>
+    </newsInfo> 
+    
+    <newsInfo>
+      <icon>http://192168.31.150:8080/img/d.jpg</icon>  
+       <title>科技温暖世界</title> 
+       <content>进入一个更有爱的世界</content>
+       <type>1</type>
+       <comment>25</comment>
+    </newsInfo> 
+    
+    <newsInfo>
+      <icon>http://192168.31.150:8080/img/e.jpg</icon>  
+       <title>科技温暖世界</title> 
+       <content>进入一个更有爱的世界</content>
+       <type>2</type>
+       <comment>26</comment>
+    </newsInfo> 
+    
+    <newsInfo>
+      <icon>http://192168.31.150:8080/img/f.jpg</icon>  
+       <title>科技温暖世界</title> 
+       <content>进入一个更有爱的世界</content>
+       <type>1</type>
+       <comment>23</comment>
+    </newsInfo> 
+ </news>

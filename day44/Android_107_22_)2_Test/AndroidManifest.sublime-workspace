@@ -1,0 +1,423 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"on",
+				"onCreate"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/Program Files/html/blog.html",
+			"settings":
+			{
+				"buffer_size": 6602,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/迅雷下载/AnalyzeRecyclerViewWithBGARefreshLayout-master/AnalyzeRecyclerViewWithBGARefreshLayout/app/src/main/AndroidManifest.xml",
+			"settings":
+			{
+				"buffer_size": 997,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "in",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package→安装插件"
+			],
+			[
+				"i",
+				"Package Control: Install Package→安装插件"
+			]
+		],
+		"width": 594.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/资料/课件/中软培训/Android/day44/Android_107_22_)2_Test/AndroidManifest.xml",
+		"/D/迅雷下载/RecyclerView-master/RecyclerViewDemo/app/src/main/java/com/example/myapplication/DividerItemDecoration.java",
+		"/D/迅雷下载/RecyclerView-master/RecyclerViewDemo/app/src/main/java/com/example/myapplication/StaggeredRecyclerViewAdapter.java",
+		"/D/迅雷下载/RecyclerView-master/RecyclerViewDemo/app/src/main/java/com/example/myapplication/StaggeredMainActivity.java",
+		"/F/资料/课件/中软培训/Android/day52/推送有关内容/Getui_SDK_Demo_official/res/layout/main.xml",
+		"/F/资料/课件/中软培训/Android/day52/推送有关内容/Getui_SDK_Demo_official/res/values/strings.xml",
+		"/F/Androidtest/Day25/app/src/main/AndroidManifest.xml",
+		"/F/资料/课件/中软培训/Android/day52/推送有关内容/Getui_SDK_Demo_official/AndroidManifest.xml",
+		"/F/Androidtest/Account_Product/app/src/main/AndroidManifest.xml",
+		"/F/Androidtest/Day30/app/src/main/AndroidManifest.xml",
+		"/F/Androidtest/Day30/app/src/main/res/layout/activity_main.xml",
+		"/D/迅雷下载/JPushExample(535203)/AndroidManifest.xml",
+		"/D/迅雷下载/JPushExample(535203)/res/values/jpush_style.xml",
+		"/D/迅雷下载/JPushExample(535203)/res/values/style.xml",
+		"/D/迅雷下载/JPushExample(535203)/res/values-zh/style.xml",
+		"/D/Program Files/html/blog.html",
+		"/D/迅雷下载/JPushExample(535203)/res/values/strings.xml",
+		"/F/Androidtest/SensorDemo2/app/src/main/java/com/demo/sensordemo2/MainActivity.java",
+		"/C/Users/Smile/Desktop/汪帅/Kao9_a/app/src/main/java/com/demo/kao9_a/MainActivity.java",
+		"/F/Androidtest/SensorDemo1/app/src/main/java/com/example/sensordemo/MainActivity.java",
+		"/F/Androidtest/SensorDemo2/app/src/main/res/layout/activity_main.xml",
+		"/F/资料/课件/中软培训/Android/day48/Android_107_26_Test/src/com/pb/android_107_26_test/MainActivity.java",
+		"/F/资料/课件/中软培训/Android/day42/Android_107_20_01_Test/src/com/pb/android_107_20_01_test/MainActivity.java",
+		"/F/资料/课件/中软培训/Android/day47/Android_107_25_Test/src/com/pb/android_107_25_test/MainActivity.java",
+		"/F/资料/课件/中软培训/Android/day48/Android_107_26_01_Test/src/com/pb/android_107_26_01_test/MainActivity.java",
+		"/F/资料/课件/中软培训/Android/day45/Android_107_23_02_Test/src/com/pb/android_107_23_02_test/MainActivity.java",
+		"/F/Androidtest/zhendonghua1/app/src/main/java/com/example/frame/MainActivity.java",
+		"/F/资料/课件/中软培训/Android/day48/Android_107_26_02_Test/src/com/pb/android_107_26_02_test/MyFragment.java",
+		"/F/Androidtest/SensorDemo/app/src/main/java/com/demo/sensordemo/MainActivity.java",
+		"/C/Users/Smile/Desktop/汪帅/Kao9_b/app/src/main/res/layout/activity_main.xml",
+		"/F/资料/课件/中软培训/Android/day47/Android_107_25_02_Test/src/com/pb/android_107_25_02_test/MainActivity.java",
+		"/F/资料/课件/中软培训/Android/day44/Android_107_22_01_Test/src/com/pb/android_107_22_01_test/MainActivity.java",
+		"/F/Androidtest/zhendonghua1/app/src/main/AndroidManifest.xml",
+		"/F/资料/课件/中软培训/Android/day45/Android_107_23_02_Test/res/layout/activity_main.xml",
+		"/F/资料/课件/中软培训/Android/day45/Android_107_23_02_Test/res/drawable/frame_animation.xml",
+		"/F/资料/课件/中软培训/Android/day43/Android_107_21_Test/src/com/pb/android_107_21_test/MainActivity.java",
+		"/F/资料/课件/中软培训/Android/day43/Android_107_21_Test/src/com/pb/android_107_21_test/adapter/MyAdapter.java",
+		"/F/Androidtest/Demo1/app/src/main/java/com/demo/demo1/adapter/MyAdapter.java",
+		"/F/资料/课件/中软培训/Android/day50/Android_107_27_02_Test/src/com/pb/android_107_27_02_test/MainActivity.java",
+		"/F/资料/课件/中软培训/Android/day51/BaiduLBS_AndroidSDK_Sample/BaiduMap_AndroidPanoramaSDK_v2.4.0_Sample/src/com/baidu/lbsapi/panodemo/PanoDemoMain.java",
+		"/F/资料/课件/中软培训/Android/day43/Android_107_21_01_Test/src/com/pb/android_107_21_01_test/MainActivity.java",
+		"/F/资料/课件/中软培训/Android/day51/Android_107_27_02_Test/AndroidManifest.xml",
+		"/F/资料/课件/中软培训/Android/day43/Android_107_21_01_Test/src/com/pb/android_107_21_01_test/BitmapView.java",
+		"/F/资料/课件/中软培训/Android/day51/Android_107_27_02_Test/src/com/pb/android_map_test/MainActivity.java",
+		"/F/资料/课件/中软培训/Android/day50/Android_107_27_02_Test/res/layout/activity_main.xml",
+		"/F/资料/课件/中软培训/Android/day43/Android_107_21_01_Test/res/layout/activity_main.xml",
+		"/F/资料/课件/中软培训/Android/day44/Android_107_22_01_Test/src/com/pb/android_107_22_01_test/MusicService.java",
+		"/F/资料/课件/中软培训/Android/day44/Android_107_22_)2_Test/src/com/pb/android_107_22_2_test/MainActivity.java",
+		"/F/Androidtest/Day23/app/src/main/java/com/demo/day23/MainActivity.java",
+		"/F/资料/课件/中软培训/Android/day44/Android_107_22_Test/src/com/pb/android_107_22_test/MainActivity.java",
+		"/F/资料/课件/中软培训/Android/day44/PlayVideoTest/src/com/example/playvideotest/MainActivity.java",
+		"/F/Androidtest/Day23/app/src/main/res/layout/activity_main.xml",
+		"/F/Androidtest/Day23/app/src/main/AndroidManifest.xml",
+		"/F/资料/课件/中软培训/Android/day44/Android_107_22_Test/res/layout/activity_main.xml",
+		"/F/资料/课件/中软培训/Android/day45/Android_107_23_03_Test/src/com/pb/android_107_23_03_test/MainActivity.java",
+		"/F/资料/课件/中软培训/Android/day45/Android_107_23_03_Test/res/layout/activity_main.xml",
+		"/F/资料/课件/中软培训/Android/day45/Android_107_23_Test/src/com/pb/android_107_23_test/MainActivity.java",
+		"/F/资料/课件/中软培训/Android/day45/Android_107_23_01_Test/src/com/pb/android_107_23_01_test/MainActivity.java",
+		"/F/资料/课件/中软培训/Android/day45/Android_107_23_01_Test/res/layout/activity_main.xml",
+		"/F/资料/课件/中软培训/Android/day45/Android_107_23_01_Test/res/anim/alpha_animation.xml",
+		"/F/资料/课件/中软培训/Android/day50/Android_107_27_01_Test/src/com/pb/android_107_27_01_test/MainActivity.java",
+		"/F/资料/课件/中软培训/Android/day50/Android_107_27_01_Test/AndroidManifest.xml",
+		"/F/资料/课件/中软培训/Android/day50/Android_107_27_01_Test/res/layout/activity_main.xml",
+		"/F/资料/课件/中软培训/Android/day48/Android_107_26_02_Test/res/layout/activity_main.xml",
+		"/F/资料/课件/中软培训/Android/day48/Android_107_26_02_Test/res/layout/my_fragment.xml",
+		"/F/资料/课件/中软培训/Android/day48/Android_107_26_02_Test/res/layout/view_page.xml",
+		"/F/资料/课件/中软培训/Android/day48/Android_107_26_02_Test/src/com/pb/android_107_26_02_test/MainActivity.java",
+		"/F/Androidtest/Liaotian2/app/src/main/java/com/demo/liaotian2/adapter/PagerAdapter.java",
+		"/F/Androidtest/Liaotian2/app/src/main/java/com/demo/liaotian2/MainActivity.java",
+		"/F/资料/课件/中软培训/Android/day48/Android_107_26_02_Test/AndroidManifest.xml",
+		"/F/资料/课件/中软培训/Android/day46/Android_107_24_Test/src/com/pb/android_107_24_test/MainActivity.java",
+		"/F/svn/Service_WorkSpace/Day28/app/src/main/java/com/demo/day28/MainActivity.java",
+		"/F/资料/课件/中软培训/Android/day48/Android_107_26_01_Test/src/com/pb/android_107_26_01_test/Fragment_Content.java",
+		"/F/资料/课件/中软培训/Android/day48/Android_107_26_01_Test/src/com/pb/android_107_26_01_test/Fragment_Icon.java",
+		"/F/资料/课件/中软培训/Android/day48/Android_107_26_01_Test/res/layout/activity_main.xml",
+		"/F/资料/课件/中软培训/Android/day48/Android_107_26_01_Test/res/layout/content_fragment.xml",
+		"/F/资料/课件/中软培训/Android/day48/Android_107_26_01_Test/res/layout/item_icon.xml",
+		"/F/资料/课件/中软培训/Android/day47/Android_107_25_02_Test/src/com/pb/android_107_25_02_test/MyFragment.java",
+		"/F/资料/课件/中软培训/Android/day48/Android_107_26_Test/src/com/pb/android_107_26_test/Fragment_one.java",
+		"/F/资料/课件/中软培训/Android/day47/Android_107_25_02_Test/res/layout/my_fragment.xml",
+		"/F/资料/课件/中软培训/Android/day47/Android_107_25_02_Test/res/layout/activity_main.xml",
+		"/F/Androidtest/Demo1/app/src/main/java/com/demo/demo1/fragment/Main_item1.java",
+		"/F/资料/课件/中软培训/Android/day47/Android_107_25_01_Test/src/com/pb/android_107_25_01_test/Left_Fragment.java",
+		"/F/资料/课件/中软培训/Android/day30/Android_107_9_03_SQLite_Test/src/com/pb/android_107_9_03_sqlite_test/dao/AccountDao.java",
+		"/F/资料/课件/中软培训/Android/day30/Android_107_9_03_SQLite_Test/src/com/pb/android_107_9_03_sqlite_test/MainActivity.java",
+		"/F/资料/课件/中软培训/Android/day30/Android_107_9_03_SQLite_Test/src/com/pb/android_107_9_03_sqlite_test/bean/Account.java",
+		"/F/资料/课件/中软培训/Android/day30/Android_107_9_03_SQLite_Test/src/com/pb/android_107_9_03_sqlite_test/dao/MyHelper.java",
+		"/G/图片/NewsInfo.xml",
+		"/G/音乐/NewsInfo.xml",
+		"/C/Users/Smile/Desktop/TakeColor.exe",
+		"/F/资料/课件/中软培训/Android/day37/Android_107_16_02_Test/src/com/pb/android_107_16_02_test/MainActivity.java",
+		"/F/资料/课件/中软培训/Android/day37/Android_107_16_Test/src/com/pb/android_107_16_test/MainActivity.java",
+		"/F/Androidtest/Liaotian2/app/src/main/java/com/demo/liaotian2/fragment/MainFragment1.java",
+		"/F/Androidtest/Liaotian2/app/src/main/java/com/demo/liaotian2/activity/LiaoTianActivity.java",
+		"/F/资料/课件/中软培训/Android/day41/Android_107_20_Test/src/com/com/android_107_20_test/xUtilsImageLoading.java",
+		"/F/资料/课件/中软培训/Android/day43/Android_107_21_02_Test/src/com/pb/android_107_21_02_test/MainActivity.java",
+		"/F/资料/课件/中软培训/Android/day42/Android_107_20_01_Test/src/com/pb/android_107_20_01_test/tools/Tools.java",
+		"/F/资料/课件/中软培训/Android/day42/Android_107_20_01_Test/src/com/pb/android_107_20_01_test/adapter/MyAdapter.java",
+		"/F/Androidtest/Kao8_c/app/src/main/java/com/demo/kao8_c/MainActivity.java",
+		"/D/Program Files/html/about.html",
+		"/F/Androidtest/HttpURLConnectionTest2/app/src/main/java/com/demo/httpurlconnectiontest2/MainActivity.java",
+		"/C/Users/Smile/Desktop/新建文件夹/res/layout/activity_main.xml",
+		"/F/资料/课件/中软培训/Android/day39/Android_107_18_Test/src/com/pb/android_107_18_test/BitmapshowActivity.java",
+		"/F/资料/课件/中软培训/Android/day39/Android_107_18_01_Test/src/com/pb/android_107_18_01_test/MainActivity.java",
+		"/F/资料/课件/中软培训/Android/day40/Android_107_19_02_Test/src/com/pb/android_107_19_02_test/MainActivity.java",
+		"/F/资料/课件/中软培训/Android/day39/Android_107_18_01_Test/src/com/pb/android_107_18_01_test/InternetCallBack.java",
+		"/F/资料/课件/中软培训/Android/day41/Android_107_20_01_Test/src/com/pb/android_107_20_01_test/MainActivity.java",
+		"/C/Users/Smile/Desktop/Shareperefence/app/src/main/res/layout/activity_main.xml",
+		"/F/资料/课件/android高级/hb_day07Viewpager/res/layout/activity_main.xml",
+		"/F/资料/课件/android高级/hb_day07Viewpager/res/layout/fragment1.xml",
+		"/F/Androidtest/Liaotian2/app/src/main/java/com/demo/liaotian2/fragment/MainFragment4.java",
+		"/F/资料/课件/android高级/hb_day07Viewpager/src/com/example/hb_day07viewpager/Fragment1.java",
+		"/F/资料/课件/android高级/hb_day07Viewpager/src/com/example/hb_day07viewpager/MainActivity.java",
+		"/F/资料/课件/android高级/hb_day07Viewpager/src/com/example/hb_day07viewpager/adapter/PagerAdapter.java",
+		"/C/Users/Smile/Desktop/Shareperefence/app/src/main/java/com/example/joy/shareperefence/MainActivity.java",
+		"/F/资料/课件/android高级/bh_day03FragmentFrist/res/layout/activity_main.xml",
+		"/F/Androidtest/Liaotian2/app/src/main/java/com/demo/liaotian2/activity/SplashActivity.java",
+		"/F/Androidtest/Day16_3/app/src/main/java/com/demo/day16_3/MainActivity.java",
+		"/F/Androidtest/HttpURlConnectionTest3/app/src/main/java/com/demo/httpurlconnectiontest3/MainActivity.java",
+		"/F/Androidtest/HttpURlConnectionTest3/app/src/main/res/layout/activity_main.xml",
+		"/F/资料/课件/中软培训/Android/day41/Android_107_20_01_Test/src/com/pb/android_107_20_01_test/adapter/MyAdapter.java",
+		"/F/资料/课件/中软培训/Android/day41/Android_107_20_01_Test/src/com/pb/android_107_20_01_test/tools/Tools.java",
+		"/F/Androidtest/Kao8_a/app/src/main/java/com/demo/kao8_a/MainActivity.java",
+		"/F/Androidtest/Day16_4/app/src/main/java/com/demo/day16_4/MainActivity.java",
+		"/F/Androidtest/Day24_2/app/src/main/res/drawable/frame_animation.xml",
+		"/F/Androidtest/Day24_2/app/src/main/java/com/demo/day24_2/MainActivity.java",
+		"/F/资料/课件/中软培训/Android/day45/Android_107_23_01_Test/res/anim/translate_animation.xml",
+		"/F/资料/课件/中软培训/Android/day45/Android_107_23_01_Test/res/anim/scale_animation.xml"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 110.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"activity",
+			"setText",
+			"view",
+			"setText",
+			"set",
+			"account",
+			"dao",
+			"BitmapFactory.decodeResource",
+			"comments_count",
+			"initSeekBar",
+			"mseekBar",
+			"binder",
+			"mseekBar",
+			"myThread",
+			"layout",
+			"]",
+			"comments_count",
+			"created_at",
+			"totallist",
+			"ItemEntity",
+			"Serializable",
+			"ItemEntity",
+			"Published_at",
+			"inject",
+			"aaa",
+			"MyAsyncTask",
+			"ImageViewUrl",
+			"action_quit",
+			"ImageLoader",
+			"prod",
+			"dot",
+			"mseekBar",
+			"mseekBar、",
+			"mseekBar",
+			"Resolver",
+			"count",
+			"qureyCount",
+			"pagesize",
+			"ps",
+			"adapter",
+			"listView",
+			"pageIndex",
+			"change",
+			"ContentUris",
+			"listener"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/Program Files/html/blog.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6602,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6065,
+								6065
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 5247.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/迅雷下载/AnalyzeRecyclerViewWithBGARefreshLayout-master/AnalyzeRecyclerViewWithBGARefreshLayout/app/src/main/AndroidManifest.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 997,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/XML/XML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "AndroidManifest.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
